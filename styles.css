@@ -1,0 +1,39 @@
+* {
+  box-sizing: border-box;
+  font-size: 16px;
+  padding: 0;
+  margin: 0;
+}
+
+html {
+  font-family: "Poppins", sans-serif;
+}
+
+body {
+}
+
+nav {
+  width: 290px;
+  height: 100%;
+  position: fixed;
+  top: 0;
+  left: 0;
+  border-right: 1px solid white;
+  padding: 5px 10px;
+}
+
+main {
+  position: absolute;
+  top: 0;
+  left: 320px;
+}
+
+media (max-width: 768px) {
+  body {
+    flex-direction: column;
+  }
+
+  main {
+    width: 100%;
+  }
+}
