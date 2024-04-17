@@ -108,7 +108,7 @@ main {
   margin: 0;
 }
 
-.main-section ol li {
+.main-section ol li, .main-section ul li {
   font-size: 0.8rem;
   margin-left: 60px;
 }
