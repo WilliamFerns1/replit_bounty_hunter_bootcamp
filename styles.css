@@ -48,7 +48,6 @@ nav > ul {
 }
 
 .nav-item {
-  padding: 10px 25px;
   border-bottom: 1px solid rgba(255, 255, 255, 1);
   cursor: pointer;
   color: #fff;
@@ -62,6 +61,10 @@ nav > ul {
 .nav-item a {
   text-decoration: none;
   color: #fff;
+  display: block;
+  width: 100%;
+  padding: 10px 25px;
+  height: 100%;
 }
 
 .nav-item:hover {
