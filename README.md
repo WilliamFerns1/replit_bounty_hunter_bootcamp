@@ -1,4 +1,4 @@
-# Replit Bounty Hunter Bootcamp Starter Guide
+# Replit Bounty Hunter Bootcamp | Starter Guide
 
 [![Replit](https://img.shields.io/badge/Replit-Bounty_Hunter_Bootcamp-purple)](https://freecodecamp.com/learn)
 [![Project Type](https://img.shields.io/badge/Project_Type:-Starter_Guide-orange)](https://www.python.org/downloads/)
